@@ -2,10 +2,10 @@
 
 # Computer Scientist 
 
-###About Me
+### About Me
 
 ### Skills
 
-###Projects
+### Projects
 
-###Resume
+### Resume
