@@ -1,0 +1,14 @@
+﻿reflect on your journey as a developing computer scientist, focusing on how your
+technical skills, collaborative abilities, and professional identity have evolved. Demonstrate your ability to apply your learning to real-world and human-centered challenges, consistent with the University of St. Thomas’ mission and values.
+
+
+As I near the completion of my undergraduate career at the University of St. Thomas, I want to take the time to reflect on my journey as a computer science student, the growth I’ve experienced, and the challenges along the way. 
+
+
+Classes were most certainly difficult and challenging but made me want to push through even more. My biggest challenges were Information Security and Computer Architecture. These classes humbled me in the best way possible. It taught me that patience and effort is key to success. No matter how quickly I finished an assignment and how many office hours I went to, it did not account for the understanding of the material. When I did succeed the couple times in the course it all boiled down to the time I took to make sure my understanding was on point. 
+
+
+One of the most defining experiences in my portfolio was working on a mental health guidance app called WE-BE Guide, designed to help students access campus resources and track their emotional well-being. I was involved in the brainstorming &  designing of the application. This project stood out because it wasn’t just about code but the collaborational environment that I am not used to. It made me understand the importance of team building and working in groups. I am very used to splitting up the work and doing it on our own but that was not the case. We had to constantly support each other due to the new experience but in the end it all paid off. 
+
+
+Going forward I plan to use the mission for common good that St. Thomas has instilled in me As I graduate, I carry forward not just technical expertise, but a commitment to responsible innovation, inclusivity, and lifelong learning.
